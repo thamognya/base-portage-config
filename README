@@ -1,0 +1,8 @@
+These are just my portage configs for future use. It might inspire you in some way I guess.
+
+
+NOTES for the future:
+
+- Neovim
+
+ `LUA_SINGLE_TARGET="luajit" USE="lua_single_target_luajit" emerge -a =app-editors/neovim-_._._ lua luajit luarocks`
